@@ -1,0 +1,6 @@
+﻿  Cell.cpp
+  Grid.cpp
+  main.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p2-04\lyo-1-c64-s1p2-04-main\Demineur\main.cpp(97,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+  Demineur.vcxproj -> C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p2-04\lyo-1-c64-s1p2-04-main\x64\Debug\Demineur.exe
